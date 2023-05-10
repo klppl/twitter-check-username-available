@@ -11,7 +11,7 @@ access_token_secret = ''
 # Replace with your email credentials
 email_sender = 'username@gmail.com'
 email_password = 'app_password@gmail.com'
-email_recipient = 'notificaiton@email.com'
+email_recipient = 'notification@email.com'
 
 # Replace with desired username
 desired_username = ''
